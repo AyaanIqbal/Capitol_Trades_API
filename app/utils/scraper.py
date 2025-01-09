@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_page(page_number):
+def scrape_trade(page_number):
     """
     Scrapes a single page of trade data from Capitol Trades.
 
